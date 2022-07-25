@@ -5,7 +5,7 @@ catch_rules: #转换规则
 
         - search: _ 
           replace: 
-            - origin.cwtc.xyz:2333
+            - cloudtg.whitenuo.cn
 
         - search: \.(js|css)
           action: fetch
