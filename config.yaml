@@ -7,7 +7,7 @@ catch_rules: #转换规则
           replace: '' 
         - search: _ 
           replace: 
-          - origin.cwtc.xyz #GithubPage托管
+          - origin.cwtc.xyz:2333 #GithubPage托管
 
         - search: _
           action: fetch
