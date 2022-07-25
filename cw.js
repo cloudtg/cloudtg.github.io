@@ -1,0 +1,1 @@
+importScripts('https://s-cd-1806-tnxg-oss-cdn.oss.dogecdn.com/npm/clientworker@2.7.1/dist/cw.js')
